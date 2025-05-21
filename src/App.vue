@@ -1,8 +1,8 @@
 <script setup>
-
+const date = new Date()
 </script>
 
-<template><div>{{ new Date() }}</div></template>
+<template><div>{{ date }}</div></template>
 
 <style scoped>
 
